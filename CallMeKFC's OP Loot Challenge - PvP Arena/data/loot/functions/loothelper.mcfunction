@@ -1,0 +1,1 @@
+schedule function loot:loot 30s
