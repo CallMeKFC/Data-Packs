@@ -1,0 +1,1 @@
+schedule function bedrock:bedrock 1t
