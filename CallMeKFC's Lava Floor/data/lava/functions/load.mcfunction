@@ -1,0 +1,1 @@
+execute as @a at @p if block ~ ~-1 ~ minecraft:grass_block run schedule function lava:start 1s
