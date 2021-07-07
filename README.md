@@ -5,6 +5,6 @@ You can download them, and play with them all you want.
 
 To learn what the packs do visit my wiki page: [https://github.com/CallMeKFC/Data-Packs/wiki/Explaining-The-Data-Packs](url)
 
-If you want a custom pack developed, then join [https://discord.gg/nAcpcHEjRs](url) and DM CallMeKFC!
+If you want a custom pack developed, then join [https://discord.gg/nAcpcHEjRs](url) and make a request in #requests!
 
 Thats all for now! Enjoy the packs!
